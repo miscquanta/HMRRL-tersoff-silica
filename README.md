@@ -1,1 +1,0 @@
-# HMRRL-tersoff-silica
